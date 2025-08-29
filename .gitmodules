@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Stype.est"]
+	path = Stype.est
+	url = https://github.com/filizkrdg/s-type.est
 [submodule "ridgregextra"]
 	path = ridgregextra
 	url = https://github.com/filizkrdg/ridgregextra
