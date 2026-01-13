@@ -5,6 +5,9 @@
 [submodule "Stype.est"]
 	path = Stype.est
 	url = https://github.com/filizkrdg/s-type.est
+[submodule "Styperidge.reg"]
+	path = Styperidge.reg
+	url = https://github.com/filizkrdg/styperidge.reg
 [submodule "ridgregextra"]
 	path = ridgregextra
 	url = https://github.com/filizkrdg/ridgregextra
