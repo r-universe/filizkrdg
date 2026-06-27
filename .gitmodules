@@ -8,6 +8,9 @@
 [submodule "Styperidge.reg"]
 	path = Styperidge.reg
 	url = https://github.com/filizkrdg/styperidge.reg
+[submodule "dwmmlRidge"]
+	path = dwmmlRidge
+	url = https://github.com/filizkrdg/dwmmlridge
 [submodule "ridgregextra"]
 	path = ridgregextra
 	url = https://github.com/filizkrdg/ridgregextra
